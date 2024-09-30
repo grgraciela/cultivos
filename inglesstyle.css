@@ -1,0 +1,9 @@
+h1{text-align: center; color:rgb(101, 59, 216);font-size: 50px;}
+li{font-size: 20px;}
+p{font-size: 20px;} 
+h2{font-size: 40px;color: rgb(194, 86, 194);}
+#aaa {width: 400px}
+#aaaa {height: 400px;}
+img, iframe {display: block; margin: auto;}
+body {background-color: rgba(163, 163, 163, 0.623);}
+body {font-family: Georgia, 'Times New Roman', Times, serif;}
